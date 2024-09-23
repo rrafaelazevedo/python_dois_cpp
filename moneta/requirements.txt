@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+yfinance
+streamlit
+plotly
+matplotlib
+stqdm
+st-annotated-text
+ipykernel
+openpyxl
